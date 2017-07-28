@@ -1,0 +1,66 @@
+WARN  2017-07-28 19:57:23 unity.shell.compiz unityshell.cpp:3241 Animation plugin not found. Can't set minimize speed.
+
+(nautilus:6593): GLib-GIO-CRITICAL **: g_dbus_interface_skeleton_unexport: assertion 'interface_->priv->connections != NULL' failed
+
+(nautilus:6593): GLib-GIO-CRITICAL **: g_dbus_interface_skeleton_unexport: assertion 'interface_->priv->connections != NULL' failed
+
+(nautilus:6593): Gtk-CRITICAL **: gtk_icon_theme_get_for_screen: assertion 'GDK_IS_SCREEN (screen)' failed
+
+(nautilus:6593): GLib-GObject-WARNING **: invalid (NULL) pointer instance
+
+(nautilus:6593): GLib-GObject-CRITICAL **: g_signal_connect_object: assertion 'G_TYPE_CHECK_INSTANCE (instance)' failed
+
+(nautilus:6783): GLib-GIO-CRITICAL **: g_dbus_interface_skeleton_unexport: assertion 'interface_->priv->connections != NULL' failed
+
+(nautilus:6783): GLib-GIO-CRITICAL **: g_dbus_interface_skeleton_unexport: assertion 'interface_->priv->connections != NULL' failed
+
+(nautilus:6783): Gtk-CRITICAL **: gtk_icon_theme_get_for_screen: assertion 'GDK_IS_SCREEN (screen)' failed
+
+(nautilus:6783): GLib-GObject-WARNING **: invalid (NULL) pointer instance
+
+(nautilus:6783): GLib-GObject-CRITICAL **: g_signal_connect_object: assertion 'G_TYPE_CHECK_INSTANCE (instance)' failed
+WARN  2017-07-28 20:04:31 unityreak_table (break_type) <unknown>:0 Invalid UTF-8 string passed to pango_layout_set_text()
+WARN  2017-07-28 20:04:32 unityreak_table (break_type) <unknown>:0 Invalid UTF-8 string passed to pango_layout_set_text()
+WARN  2017-07-28 20:04:38 unityreak_table (break_type) <unknown>:0 Invalid UTF-8 string passed to pango_layout_set_text()
+WARN  2017-07-28 20:04:38 unityreak_table (break_type) <unknown>:0 Invalid UTF-8 string passed to pango_layout_set_text()
+
+(nautilus:6934): GLib-GIO-CRITICAL **: g_dbus_interface_skeleton_unexport: assertion 'interface_->priv->connections != NULL' failed
+
+(nautilus:6934): GLib-GIO-CRITICAL **: g_dbus_interface_skeleton_unexport: assertion 'interface_->priv->connections != NULL' failed
+
+(nautilus:6934): Gtk-CRITICAL **: gtk_icon_theme_get_for_screen: assertion 'GDK_IS_SCREEN (screen)' failed
+
+(nautilus:6934): GLib-GObject-WARNING **: invalid (NULL) pointer instance
+
+(nautilus:6934): GLib-GObject-CRITICAL **: g_signal_connect_object: assertion 'G_TYPE_CHECK_INSTANCE (instance)' failed
+
+(nautilus:6979): GLib-GIO-CRITICAL **: g_dbus_interface_skeleton_unexport: assertion 'interface_->priv->connections != NULL' failed
+
+(nautilus:6979): GLib-GIO-CRITICAL **: g_dbus_interface_skeleton_unexport: assertion 'interface_->priv->connections != NULL' failed
+
+(nautilus:6979): Gtk-CRITICAL **: gtk_icon_theme_get_for_screen: assertion 'GDK_IS_SCREEN (screen)' failed
+
+(nautilus:6979): GLib-GObject-WARNING **: invalid (NULL) pointer instance
+
+(nautilus:6979): GLib-GObject-CRITICAL **: g_signal_connect_object: assertion 'G_TYPE_CHECK_INSTANCE (instance)' failed
+1501253303613	addons.xpi	WARN	Exception running bootstrap method shutdown on aushelper@mozilla.org: [Exception... "Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIObserverService.removeObserver]"  nsresult: "0x80004005 (NS_ERROR_FAILURE)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm -> jar:file:///home/ashish/.mozilla/firefox/t0lf82gz.default/features/%7B9a20a5ec-1ad3-47c1-8692-c9d4a05cc319%7D/aushelper@mozilla.org.xpi!/bootstrap.js :: shutdown :: line 196"  data: no] Stack trace: shutdown()@resource://gre/modules/addons/XPIProvider.jsm -> jar:file:///home/ashish/.mozilla/firefox/t0lf82gz.default/features/%7B9a20a5ec-1ad3-47c1-8692-c9d4a05cc319%7D/aushelper@mozilla.org.xpi!/bootstrap.js:196 < this.XPIProvider.callBootstrapMethod()@resource://gre/modules/addons/XPIProvider.jsm:4944 < this.XPIProvider.startup/<.observe()@resource://gre/modules/addons/XPIProvider.jsm:2907
+
+(nautilus:7937): GLib-GIO-CRITICAL **: g_dbus_interface_skeleton_unexport: assertion 'interface_->priv->connections != NULL' failed
+
+(nautilus:7937): GLib-GIO-CRITICAL **: g_dbus_interface_skeleton_unexport: assertion 'interface_->priv->connections != NULL' failed
+
+(nautilus:7937): Gtk-CRITICAL **: gtk_icon_theme_get_for_screen: assertion 'GDK_IS_SCREEN (screen)' failed
+
+(nautilus:7937): GLib-GObject-WARNING **: invalid (NULL) pointer instance
+
+(nautilus:7937): GLib-GObject-CRITICAL **: g_signal_connect_object: assertion 'G_TYPE_CHECK_INSTANCE (instance)' failed
+1501254904295	addons.update-checker	WARN	Update manifest for webcompat@mozilla.org did not contain an updates property
+1501254904312	addons.update-checker	WARN	Update manifest for firefox@getpocket.com did not contain an updates property
+1501254904380	addons.update-checker	WARN	Update manifest for {972ce4c6-7e08-4474-a285-3208198ce6fd} did not contain an updates property
+1501254904592	addons.update-checker	WARN	Update manifest for aushelper@mozilla.org did not contain an updates property
+1501254904628	addons.update-checker	WARN	Update manifest for e10srollout@mozilla.org did not contain an updates property
+1501254904648	addons.update-checker	WARN	Update manifest for disableSHA1rollout@mozilla.org did not contain an updates property
+1501254904661	addons.update-checker	WARN	Update manifest for hsts-priming@mozilla.org did not contain an updates property
+1501254904673	addons.update-checker	WARN	Update manifest for diagnostics@mozilla.org did not contain an updates property
+WARN  2017-07-28 21:22:59 unity.shell.compiz unityshell.cpp:3241 Animation plugin not found. Can't set minimize speed.
+WARN  2017-07-28 21:56:08 unity <unknown>:0 Failed to get application for xid 37759490: Timeout was reached
