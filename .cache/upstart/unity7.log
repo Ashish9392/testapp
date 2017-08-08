@@ -72,3 +72,7 @@ WARN  2017-07-28 21:56:08 unity <unknown>:0 Failed to get application for xid 37
 1501602387563	addons.update-checker	WARN	Update manifest for disableSHA1rollout@mozilla.org did not contain an updates property
 1501602387581	addons.update-checker	WARN	Update manifest for hsts-priming@mozilla.org did not contain an updates property
 1501602387717	addons.update-checker	WARN	Update manifest for diagnostics@mozilla.org did not contain an updates property
+
+(firefox:8533): Gtk-CRITICAL **: _gtk_tree_path_new_from_rbtree: assertion 'node != NULL' failed
+
+(firefox:8533): Gdk-CRITICAL **: gdk_frame_clock_get_frame_time: assertion 'GDK_IS_FRAME_CLOCK (frame_clock)' failed
